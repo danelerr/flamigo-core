@@ -1,0 +1,1 @@
+Generador de VIdeos IA para flamingo
